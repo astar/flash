@@ -1,0 +1,12 @@
+Attempt to create animated equations for remembering
+
+1. Attempt
+ Latex document	
+ Cons: Ugly jpg conversion
+
+2. From web [[http://www.codecogs.com/latex/eqneditor.php]] 
+Works
+
+
+3. Animate
+gifsicle --delay=200 --loop *.gif > hamilton1_200.gif
